@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Пицца Маргарита",
+    "description": "Классическая пицца",
+    "price": 12.99,
+    "category": "Пицца",
+    "isAvailable": true,
+    "ingredients": ["тесто", "томаты", "сыр"],
+    "cookingTime": 20,
+    "spicyLevel": 0,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "tags": ["итальянская", "вегетарианская"]
+  }
+]

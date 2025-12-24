@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "customerName": "Иван Иванов",
+    "phone": "+79161234567",
+    "email": "ivan@mail.ru",
+    "address": "ул. Ленина, д. 10",
+    "dishes": [
+      { "dishId": 1, "quantity": 2 }
+    ],
+    "totalAmount": 25.98,
+    "status": "доставляется",
+    "paymentMethod": "карта",
+    "deliveryTime": "2024-01-16T13:00:00.000Z",
+    "notes": "Позвонить перед доставкой",
+    "createdAt": "2024-01-16T12:00:00.000Z",
+    "isPaid": true,
+    "rating": null
+  }
+]

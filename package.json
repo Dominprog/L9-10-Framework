@@ -1,0 +1,12 @@
+{
+  "name": "l9-10-framework",
+  "version": "1.0.0",
+  "description": "Веб-фреймворк для доставки еды",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

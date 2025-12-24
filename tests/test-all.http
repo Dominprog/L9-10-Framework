@@ -1,0 +1,22 @@
+GET http://localhost:3000/
+
+GET http://localhost:3000/dishes
+
+GET http://localhost:3000/dishes/1
+
+POST http://localhost:3000/dishes
+
+POST http://localhost:3000/dishes
+Content-Type: application/json
+
+{
+    "name": "Шаурма",
+    "price": 8.99,
+    "isAvailable": true
+}
+
+PATCH http://localhost:3000/dishes/1
+
+GET http://localhost:3000/orders
+
+POST http://localhost:3000/orders
