@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # L9-10 Framework - Система доставки еды
 
 Минималистичный веб-фреймворк для Node.js с поддержкой маршрутизации, middleware и обработки запросов.
@@ -54,3 +55,6 @@ L9-10 Framework/
         ├── fileUtils.js
         ├── randomGenerator.js
         └── validator.js
+=======
+# L9-10-Framework
+>>>>>>> fef3951c18cf5a4edfb2dcfff31deb14e9d389df
